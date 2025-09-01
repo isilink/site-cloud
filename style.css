@@ -1,0 +1,9 @@
+body{
+    width: 110vw;
+    height: 100vh;
+    background-image: url('background.png');
+    background-size: cover;
+    color: white;
+    text-shadow:5px 5px 5px black;
+    stroke: 1px;
+}
